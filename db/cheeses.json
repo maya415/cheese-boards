@@ -1,0 +1,52 @@
+[{
+    "title": "feta",
+    "description": "the only good cheese; tangy, crumbly, creamy"
+}, {
+    "title": "mozeralla",
+    "description": "stretches a lot: no taste, just vibes"
+}, {
+    "title": "cheddar",
+    "description": "basic, acceptable"
+}, {
+    "title": "brie",
+    "description": "melty, gooey, kind of smelly"
+}, {
+    "title": "camembert",
+    "description": "milky, creamy, is pretty much brie in disguise"
+}, {
+    "title": "goats cheese",
+    "description": "from a goat, not a cow; tastes better than it should"
+}, {
+    "title": "halloumi",
+    "description": "barely a cheese but kind of fun. salty."
+}, {
+    "title": "gouda", 
+    "description": "melty, creamy, cheddar's blander cousin"
+}, {
+    "title": "parmesan",
+    "description": "salty, nutty, funky flavour overall"
+}, {
+    "title": "pecerino",
+    "description": "aromatic, crumbly, and pungent "
+}, {
+    "title": "manchego",
+    "description": "creamy, tangy, semi-sweet"
+}, {
+    "title": "gruyere",
+    "description": "earthy?"
+}, {
+    "title": "muenster",
+    "description": "sounds like monnster"
+}, {
+    "title": "american",
+    "description": "plastic"
+}, {
+    "title": "marscapone",
+    "description": "creamy, spreadable, overall not bad"
+}, {
+    "title": "pecorino", 
+    "description": "hard, crumbly, from sheep"
+}, {
+    "title": "ricotta",
+    "description":"smooth, creamy, very very mild"
+}]

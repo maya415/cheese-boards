@@ -1,0 +1,37 @@
+[{
+    "type": "extremely basic",
+    "description": "for people who are scared of interesting cheese",
+    "rating":"0"
+},{
+    "type": "cheeses i like",
+    "description": "non-scary, non-smelly cheese and good vibes",
+    "rating":"3"
+},{
+    "type": "cheeseboard 1",
+    "description": "warm, melty, for dipping things into the cheese",
+    "rating":"3"
+},{
+    "type": "intense cheese",
+    "description": "for people who are serious about cheese",
+    "rating":"4"
+},{
+    "type": "intense cheese 2.0",
+    "description": "for people who are very serious about cheese",
+    "rating":"5"
+},{
+    "type": "mediterranean board",
+    "description": "flavourful, tangy, and overall excellent vibes",
+    "rating":"4"
+},{
+    "type": "barely cheese",
+    "description": "cheeses that aren't really cheese",
+    "rating":"2"
+},{
+    "type": "not from cows",
+    "description": "cheeses from goats, sheep, and america",
+    "rating":"4"
+},{
+    "type": "nibbling cheeses",
+    "description": "salty and taste good with fruit",
+    "rating":"5"
+}]
