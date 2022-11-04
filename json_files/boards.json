@@ -1,9 +1,9 @@
 [{
-    "type": "extremely basic",
+    "type": "extremely Basic",
     "description": "for people who are scared of interesting cheese",
     "rating":"0"
 },{
-    "type": "cheeses i like",
+    "type": "cheeses I Like",
     "description": "non-scary, non-smelly cheese and good vibes",
     "rating":"3"
 },{
@@ -11,15 +11,15 @@
     "description": "warm, melty, for dipping things into the cheese",
     "rating":"3"
 },{
-    "type": "intense cheese",
+    "type": "intense Cheese",
     "description": "for people who are serious about cheese",
     "rating":"4"
 },{
-    "type": "intense cheese 2.0",
+    "type": "intense Cheese v2",
     "description": "for people who are very serious about cheese",
     "rating":"5"
 },{
-    "type": "mediterranean board",
+    "type": "mediterranean",
     "description": "flavourful, tangy, and overall excellent vibes",
     "rating":"4"
 },{

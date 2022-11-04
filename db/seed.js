@@ -1,8 +1,8 @@
 const { User, Cheese, Board } = require('../models');
 const db = require('./db');
-const users = require('./users.json');
-const cheeses = require('./cheeses.json');
-const boards = require('./boards.json');
+const users = require('../json_files/users.json');
+const cheeses = require('../json_files/cheeses.json');
+const boards = require('../json_files/boards.json');
 
 async function seed (){
     await db.sync({
