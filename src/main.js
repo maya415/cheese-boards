@@ -33,36 +33,30 @@ async function main (){
     for (let j = 1; j<=boardCount; j++){
         let chosenBoard = await Board.findByPk(j);
 
-        // console.table(chosenBoard.toJSON());
-        //extremely basic
-        // console.log(Selections[j]); //2387
-
         for (let pkOfCheeseChosen of Selections[j]){
             // console.log(pkOfCheeseChosen)
             let chosenCheese = await Cheese.findByPk(pkOfCheeseChosen);
             // console.log(chosenCheese.toJSON())
-
-            chosenBoard.addCheese(chosenCheese);
+            await chosenBoard.addCheese(chosenCheese);
         }
 
     }
 
 }
 
-// async function tests(){
-//     const test = await Board.findOne({where:{
-//         type: 'mediterranean'
-//     }
-//     });
-//     const mediterraneanCheeses = await test.getCheeses();
-    
-//     console.table(mediterraneanCheeses.map(p=>p.toJSON()));
-    
-
-// }
-
 
 main();
+
+
+// async function tests(){
+//     const test = await Board.findOne({where:{
+//         type: 'extremely Basic'
+//     }
+//     });
+//     console.table(test.toJSON())
+//     const mediterraneanCheeses = await test.getCheeses();
+// }
+
 
 // tests();
 
