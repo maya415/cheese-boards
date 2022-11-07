@@ -1,5 +1,4 @@
-const { User, Cheese, Board } = require('./models');
-const db = require('./db/db')
+const { User } = require('../models');
 //----------------------CRUD TESTS FOR USER-----------------------
 
 describe('User Model Crud', () => {
